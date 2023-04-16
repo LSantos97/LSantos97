@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lohan Santos
 <h3 align="center">Programming Student</h3>
 
+<h3 align="center">
+<a href="https://wakatime.com/@fc58f766-9d71-41d8-ab26-e78eaaff3950"><img src="https://wakatime.com/badge/user/fc58f766-9d71-41d8-ab26-e78eaaff3950.svg" alt="Total time coded since Apr 16 2023" /></a>
+</h3>
+    
 ## Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/lohan-santos-493993193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lohan Santos Linkedin" height="30" width="40" /></a></a>
