@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Lohan Santos
+<h3 align="center">Programming Student</h3>
 
-<!--
-**LSantos97/LSantos97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/lohan-santos-493993193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lohan Santos Linkedin" height="30" width="40" /></a></a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </p>
+
+
+## My Github Stats
+<table align="center">
+    <tr>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lohan Santos Github Stats" src="https://github-readme-stats.vercel.app/api?username=LSantos97&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        </td>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lohan Santos Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSantos97&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        </td>
+    </tr>
+</table>
+
+
+<p align="center">
+        <img src="https://streak-stats.demolab.com?user=LSantos97&theme=react&hide_border=false&background=0D1117"/>
+</p>
